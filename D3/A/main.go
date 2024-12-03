@@ -1,4 +1,4 @@
-//https://adventofcode.com/2024/day/2
+//https://adventofcode.com/2024/day/3
 //Find the distances between the numbers of two lists ordered from smallest to largest.
 
 package main
